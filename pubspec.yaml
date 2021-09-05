@@ -29,9 +29,20 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
 
+  # hive db
+  hive: ^2.0.4
+  hive_flutter: ^1.1.0
+
+  # format dates
+  intl: ^0.17.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+  # hive db generators
+  build_runner: ^2.1.2
+  hive_generator: ^1.1.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
